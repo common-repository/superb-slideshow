@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superb Slideshow\n"
+"POT-Creation-Date: 2019-08-18 09:48+0800\n"
+"PO-Revision-Date: 2019-08-18 09:48+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../superb-slideshow.php:184 ../superb-slideshow.php:313
+#: ../superb-slideshow.php:323 ../superb-slideshow.php:327
+#: ../superb-slideshow.php:350
+msgid "Superb Slideshow"
+msgstr ""
+
+#: ../superb-slideshow.php:239
+#, fuzzy
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../superb-slideshow.php:246
+#, fuzzy
+msgid "Image Directory Details"
+msgstr "Wstaw Szczegóły"
+
+#: ../superb-slideshow.php:247
+msgid "Image Directory 1 (Default for widget)"
+msgstr ""
+
+#: ../superb-slideshow.php:249
+msgid "Image Directory 2"
+msgstr ""
+
+#: ../superb-slideshow.php:251
+msgid "Image Directory 3"
+msgstr ""
+
+#: ../superb-slideshow.php:253
+#, fuzzy
+msgid "Please enter your image directory."
+msgstr "Proszę wpisać tytuł."
+
+#: ../superb-slideshow.php:254
+msgid "Default image directory :"
+msgstr ""
+
+#: ../superb-slideshow.php:255
+msgid ""
+"Note: Dont upload your original images into default plugins folder. if you "
+"upload the images into plugins folder, you may lose the images when you "
+"update the plugin to next version. Thus upload your images in \"wp-content/"
+"uploads/your-folder/\" folder and use the folder path as per the example in "
+"\"Image Directory\" text box."
+msgstr ""
+
+#: ../superb-slideshow.php:257
+msgid "Widget Settings"
+msgstr ""
+
+#: ../superb-slideshow.php:258
+msgid "Random"
+msgstr ""
+
+#: ../superb-slideshow.php:263
+#, fuzzy
+msgid "Please select random display option."
+msgstr "Proszę wybrać wyświetlanie obrazu."
+
+#: ../superb-slideshow.php:264
+msgid "Title (Only for widget)"
+msgstr ""
+
+#: ../superb-slideshow.php:266
+#, fuzzy
+msgid "Please enter widget title."
+msgstr "Proszę wpisać tytuł."
+
+#: ../superb-slideshow.php:267
+msgid "Width (Only for widget)"
+msgstr ""
+
+#: ../superb-slideshow.php:269
+msgid "Please enter your slideshow width. This is only for widget option."
+msgstr ""
+
+#: ../superb-slideshow.php:270
+msgid "Height (Only for widget)"
+msgstr ""
+
+#: ../superb-slideshow.php:272
+msgid "Please enter your slideshow height. This is only for widget option."
+msgstr ""
+
+#: ../superb-slideshow.php:274
+msgid "Slideshow Settings"
+msgstr ""
+
+#: ../superb-slideshow.php:275
+msgid "Pause"
+msgstr ""
+
+#: ../superb-slideshow.php:277
+#, fuzzy
+msgid "Please enter pause between slides."
+msgstr "Podaj link do pliku wideo."
+
+#: ../superb-slideshow.php:278
+msgid "Fade duration"
+msgstr ""
+
+#: ../superb-slideshow.php:280
+msgid ""
+"Please enter your fade duration. The duration of the fade effect when "
+"transitioning from one image to the next, in milliseconds."
+msgstr ""
+
+#: ../superb-slideshow.php:281
+msgid "Cycles"
+msgstr ""
+
+#: ../superb-slideshow.php:283
+msgid ""
+"The cycles option when set to 0 will cause the slideshow to rotate "
+"perpetually, <br />While any number larger than 0 means it will stop after N "
+"cycles."
+msgstr ""
+
+#: ../superb-slideshow.php:284
+msgid "Display description"
+msgstr ""
+
+#: ../superb-slideshow.php:289
+msgid ""
+"On Demand = Show description when the user mouses over the slideshow. <br /"
+">Always = Always show description panel at the foot of the slideshow."
+msgstr ""
+
+#: ../superb-slideshow.php:293
+msgid "Submit"
+msgstr ""
+
+#: ../superb-slideshow.php:294
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../superb-slideshow.php:298
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../superb-slideshow.php:300
+msgid "Drag and drop the widget to your sidebar."
+msgstr "Przeciągnij i upuść widget do paska bocznego."
+
+#: ../superb-slideshow.php:301
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#: ../superb-slideshow.php:302
+msgid "Add the plugin in the posts or pages using short code."
+msgstr "Dodaj wtyczki na stanowiskach lub stron za pomocą krótkiego kodu."
+
+#: ../superb-slideshow.php:304 ../superb-slideshow.php:315
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../superb-slideshow.php:305 ../superb-slideshow.php:316
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#, fuzzy
+#~ msgid "Please enter your slideshow XML filename."
+#~ msgstr "Podaj link Opt-In."
+
+#~ msgid "Youtube fancy zoom"
+#~ msgstr "Youtube fantazyjne zoom"
+
+#~ msgid "Widget Title"
+#~ msgstr "Tytuł widgetu"
+
+#~ msgid "Video ID (Enter 0 to display random one)"
+#~ msgstr "ID Wideo (Wpisz 0, aby wyświetlić losowe jeden)"
+
+#~ msgid "No data found."
+#~ msgstr "Brak danych"
+
+#~ msgid "Please enter the video code."
+#~ msgstr "Prosimy wpisać kod wideo."
+
+#~ msgid "Please select the display status."
+#~ msgstr "Wybierz stan wyświetlacza."
+
+#~ msgid "Please select the sidebar display."
+#~ msgstr "Proszę wybrać wyświetlanie paska bocznego."
+
+#~ msgid "New details was successfully added."
+#~ msgstr "Nowe szczegóły została pomyślnie dodana."
+
+#~ msgid "Click here to view the details"
+#~ msgstr "Kliknij tutaj, aby zobaczyć szczegóły"
+
+#~ msgid "Youtube with fancy zoom"
+#~ msgstr "Youtube ozdobnego zoomem"
+
+#~ msgid "Add details"
+#~ msgstr "Udostępniaj"
+
+#~ msgid "Title:"
+#~ msgstr "Tytuł:"
+
+#~ msgid "Youtube watch link:"
+#~ msgstr "Youtube Link zegarek:"
+
+#~ msgid "Youtube code:"
+#~ msgstr "Kod Youtube:"
+
+#~ msgid ""
+#~ "If (http://www.youtube.com/watch?v=5TSPlykcdYk) this is your youtube "
+#~ "video, then &ldquo;5TSPlykcdYk&rdquo; is your youtube code."
+#~ msgstr ""
+#~ "Jeśli (http://www.youtube.com/watch?v=5TSPlykcdYk) jest to plik wideo "
+#~ "youtube, a następnie \"5TSPlykcdYk\" jest kod youtube."
+
+#~ msgid "Youtube thumbnail size:"
+#~ msgstr "Youtube rozmiar miniatur:"
+
+#~ msgid "Select thumbnail size."
+#~ msgstr "Obrazek"
+
+#~ msgid "Display Image:"
+#~ msgstr "Obrazek wyróżniający wpisu"
+
+#~ msgid "Which image you want to display?"
+#~ msgstr "Chcesz wyświetlacz to w swoim suwaka?"
+
+#~ msgid "Thumbnail Image link (My Thumbnail):"
+#~ msgstr "Wybierz galerię szerokość miniatury."
+
+#~ msgid "Display Status:"
+#~ msgstr "Stan wyświetlacza"
+
+#~ msgid "Do you want the viceo to show in front end?"
+#~ msgstr "Chcesz pokazać informacje na przód?"
+
+#~ msgid "Sidebar Display:"
+#~ msgstr "Wyświetlacz tytuł pod okienko."
+
+#~ msgid "Do you want the viceo to show in sidebar widget?"
+#~ msgstr "Czy chcesz pokazać widżet tytuł?."
+
+#~ msgid "Cancel"
+#~ msgstr "Anuluj"
+
+#~ msgid "Oops, selected details doesnt exist."
+#~ msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#~ msgid "Update Details"
+#~ msgstr "aktualizacja danych szczegółowych"
+
+#~ msgid "Selected record was successfully deleted."
+#~ msgstr "Wybrany rekord został pomyślnie usunięty."
+
+#~ msgid "Add New"
+#~ msgstr "Dodaj nowy"
+
+#~ msgid "Video ID"
+#~ msgstr "Video ID"
+
+#~ msgid "Title"
+#~ msgstr "Tytuł"
+
+#~ msgid "Code"
+#~ msgstr "Kod"
+
+#~ msgid "Image"
+#~ msgstr "Zdjęcie"
+
+#~ msgid "Size"
+#~ msgstr "Rozmiar"
+
+#~ msgid "Display Image"
+#~ msgstr "Obrazek wyróżniający wpisu"
+
+#~ msgid "Display"
+#~ msgstr "Wyświetlacz"
+
+#~ msgid "Sidebar"
+#~ msgstr "Pasek boczny"
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#~ msgid "Delete"
+#~ msgstr "Usuń"
+
+#~ msgid "No records available."
+#~ msgstr "Rejestry nie są dostępne."
